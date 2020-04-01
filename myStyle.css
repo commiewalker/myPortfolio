@@ -1,0 +1,52 @@
+@media screen and ( max-width: 640px) {
+#myPic {
+    margin: 3% 33% 3% 33%;  
+}
+
+h4 {
+    text-align: center;
+}
+
+} /* END OF 640  */
+
+@media screen and ( max-width: 768px) {
+
+} /* END OF 768 */
+
+body {
+    background-color: gray;
+    font-family: 'Quicksand', sans-serif;
+    font-size: large;
+}
+
+li a {
+    color: white;
+}
+
+a:hover {
+    color: red;
+}
+
+h5{
+    text-align: center;
+    font-weight: bold;
+}
+.bgNav {
+    background-color: black;
+    height: 125px;
+}
+
+.container {
+    margin-top: 3%;
+    position: relative;
+}
+
+#myPic { 
+    float: left;
+    margin-right: 2%;
+}
+
+#myInfo {
+    display: block;
+}
+
